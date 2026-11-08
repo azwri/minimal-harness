@@ -1,0 +1,9 @@
+Content of yes.txt:
+yes this is a file!
+
+Content of combined_files.txt:
+yes this is a file!
+hi there!
+
+Content of note.txt:
+hi there!

@@ -1,0 +1,12 @@
+--- Contents of all_content.txt ---
+yes this is a file!
+
+--- Contents of yes.txt ---
+yes this is a file!
+
+--- Contents of combined_files.txt ---
+yes this is a file!
+hi there!
+
+--- Contents of note.txt ---
+hi there!

@@ -1,0 +1,8 @@
+- The user asked how I am doing.
+- The user requested the top three tutorials or courses for learning the Model Context Protocol (MCP) in Python, specifically asking for links.
+- The user asked to be reminded of their previous questions.
+- The user asked to be reminded of their last two previous questions.
+- The user asked for the current time and date.
+- I provided the current date (May 21, 2024) and time to the user.
+- The user asked for a list of all their previous questions.
+- I provided the user with a list of all their previous questions.
